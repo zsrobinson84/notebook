@@ -49,3 +49,10 @@ jp-button[data-command='filebrowser:refresh'] .jp-ToolbarButtonComponent-label {
 .jp-TreePanel .lm-TabBar-tabIcon svg {
   vertical-align: sub;
 }
+
+#jp-running-sessions-tree {
+  height: 100%;
+}
+/* #jp-running-sessions-tree {
+  display: block;
+} */
